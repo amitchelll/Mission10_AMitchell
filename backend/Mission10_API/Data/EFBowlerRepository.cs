@@ -29,6 +29,7 @@ namespace Mission10_API.Data
                             BowlerMiddleInit = bowler.BowlerMiddleInit,
                             BowlerAddress = bowler.BowlerAddress,
                             BowlerCity = bowler.BowlerCity,
+                            BowlerState = bowler.BowlerState,
                             BowlerZip = bowler.BowlerZip,
                             BowlerPhoneNumber = bowler.BowlerPhoneNumber,
                             TeamName = team.TeamName,
